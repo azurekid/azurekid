@@ -35,7 +35,6 @@ hobbies: ["Gaming", "Running", "Guitar", "Music", "BBQ"]
 <div align="center">
 <img width="50" src="https://github.com/azurekid/azurekid/assets/40334679/11e6cf4b-9d5a-4090-91d4-c9af579f63c6" alt="Kali" title=Kali />
 <img width="50" src="https://github.com/azurekid/azurekid/assets/40334679/47d096f3-e72b-445c-b786-5bd6df2d1e7d" alt="Copilot" title=Copilot />
-<img width="50" src="https://github.com/azurekid/azurekid/assets/40334679/c26b4239-92dc-40fe-adf0-d7734c7f10c1" alt="Github Copilot" title=Github Copilot />
 <img width="50" src="https://github.com/azurekid/azurekid/assets/40334679/3a926cf3-5a4b-45f7-b24d-affe9b283e63" alt="Bicep" title=Bicep />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" title=PowerShell />
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
