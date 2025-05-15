@@ -16,15 +16,20 @@ fields_of_interests:
     "APIs",
     "AI"
   ]
-technical_background:
+background:
   [
-    "Cloud Security Architect",
-    "Principal Consultant Cloud Security",
-    "Senior Cloud Security Consultant",
-    "Senior DevOps Consultant EMEA",
-    "Solution Developer"
+    "Author: Pentesting Azure for Ethical Hackers",
+    "Technical Reviewer: Microsoft Office 365 Securty & Compliance"
   ]
-  
+community work:
+  [
+    "1Password Sentinel Solution",
+    "AzureDevOpsAuditing Sentinel Solution",
+    "1Password Plugin for Microsoft Security Copilot",
+    "Project BlackCat"
+    "Project Miaow (Privilege Escalation",
+    "Sentinel PlayGround"
+  ]
 supported_languages: ["PowerShell", "TypeScript", "Yaml", "ARM", "Bicep", "KQL", "Terraform"]
 technologies: ["Azure", "GitHub", "VSCode", "Copilot", "docker", "Git"]
 hobbies: ["Gaming", "Running", "Guitar", "Music", "BBQ"]
